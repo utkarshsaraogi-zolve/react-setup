@@ -1,0 +1,9 @@
+// should contain pre defined app level modules.
+
+└── /Module-Name
+    ├── /partials
+    ├── /components
+    ├── /popup
+    ├── /redux
+	├── /styles
+    ├── index.js
